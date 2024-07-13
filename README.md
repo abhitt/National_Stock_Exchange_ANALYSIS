@@ -55,15 +55,15 @@ To use this repository, you need to have Python and the following libraries inst
 - Scipy
 - Statsmodels
 
-  ## Usage
+## Usage
 
-  git clone https://github.com/abhitt/National_Stock_Exchange_ANALYSIS.git
-  cd stock-anomaly-detection
+git clone https://github.com/abhitt/National_Stock_Exchange_ANALYSIS.git
+cd stock-anomaly-detection
 
-  ## Result
+## Result
   
-  Exploratory Data Analysis: Line plots of the first 10 stocks' price trends.
-  Correlation Analysis: Heatmap of the correlation matrix and most correlated pairs.
-  Time Series Decomposition: Visualization of trend, seasonality, and residual components.
-  Anomaly Detection: Plots highlighting the top 5 anomalies and their possible reasons.
+Exploratory Data Analysis: Line plots of the first 10 stocks' price trends.
+Correlation Analysis: Heatmap of the correlation matrix and most correlated pairs.
+Time Series Decomposition: Visualization of trend, seasonality, and residual components.
+Anomaly Detection: Plots highlighting the top 5 anomalies and their possible reasons.
 
